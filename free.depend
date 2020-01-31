@@ -1,0 +1,389 @@
+# depslib dependency file v1.0
+1576650813 source:d:\c prog\free\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"load.h"
+
+1576442781 d:\c prog\free\myheader.h
+
+1576650962 d:\c prog\free\load.h
+	"declare.h"
+
+1576611431 d:\c prog\free\declare.h
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+
+1576613722 d:\c prog\free\save.h
+
+1576613469 d:\c prog\free\modify.h
+	"declare.h"
+
+1576608798 d:\c prog\free\end.h
+
+1576612037 d:\c prog\free\contentprint.h
+
+1576612027 d:\c prog\free\add.h
+	"declare.h"
+
+1576612504 d:\c prog\free\sortprint.h
+
+1576613127 d:\c prog\free\search.h
+
+1576612046 d:\c prog\free\delete.h
+
+1576649771 d:\c prog\free\check.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576650326 source:d:\c prog\free\add.c
+	"declare.h"
+	"check.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576611654 source:d:\c prog\free\declare.c
+
+1576651530 source:d:\c prog\free\load.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"declare.h"
+	"add.h"
+	"contentprint.h"
+	"delete.h"
+
+1576614913 source:d:\c prog\free\modify.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576648011 source:d:\c prog\free\contentprint.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576650527 source:d:\c prog\free\sortprint.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576651495 source:d:\c prog\free\search.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"contentprint.h"
+
+1576651450 source:d:\c prog\free\delete.c
+	"declare.h"
+	"load.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576650962 source:d:\c prog\free\save.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"load.h"
+
+1576858612 source:f:\free\add.c
+	"declare.h"
+	"check.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576611432 f:\free\declare.h
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+
+1576853260 f:\free\check.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576648012 source:f:\free\contentprint.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576651452 source:f:\free\delete.c
+	"declare.h"
+	"load.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576650964 f:\free\load.h
+	"declare.h"
+
+1576856910 source:f:\free\load.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"declare.h"
+	"add.h"
+	"contentprint.h"
+	"delete.h"
+	"end.h"
+
+1576612028 f:\free\add.h
+	"declare.h"
+
+1576612038 f:\free\contentprint.h
+
+1576612048 f:\free\delete.h
+
+1576856812 source:f:\free\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"load.h"
+
+1576859750 source:f:\free\modify.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576650964 source:f:\free\save.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"load.h"
+
+1576651496 source:f:\free\search.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"contentprint.h"
+
+1576650528 source:f:\free\sortprint.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576856814 f:\free\end.h
+
+1576910351 source:c:\users\mhnd bshar\desktop\project\add.c
+	"declare.h"
+	"check.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576611432 c:\users\mhnd bshar\desktop\project\declare.h
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+
+1576910918 c:\users\mhnd bshar\desktop\project\check.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576648012 source:c:\users\mhnd bshar\desktop\project\contentprint.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576912927 source:c:\users\mhnd bshar\desktop\project\delete.c
+	"declare.h"
+	"load.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576650964 c:\users\mhnd bshar\desktop\project\load.h
+	"declare.h"
+
+1576916290 source:c:\users\mhnd bshar\desktop\project\load.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"declare.h"
+	"add.h"
+	"contentprint.h"
+	"delete.h"
+	"end.h"
+
+1576612028 c:\users\mhnd bshar\desktop\project\add.h
+	"declare.h"
+
+1576612038 c:\users\mhnd bshar\desktop\project\contentprint.h
+
+1576612048 c:\users\mhnd bshar\desktop\project\delete.h
+
+1576912927 c:\users\mhnd bshar\desktop\project\end.h
+
+1576856812 source:c:\users\mhnd bshar\desktop\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"load.h"
+
+1576859750 source:c:\users\mhnd bshar\desktop\project\modify.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576650964 source:c:\users\mhnd bshar\desktop\project\save.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"load.h"
+
+1576651496 source:c:\users\mhnd bshar\desktop\project\search.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"contentprint.h"
+
+1576650528 source:c:\users\mhnd bshar\desktop\project\sortprint.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576910352 source:c:\users\egypt-laptop\desktop\project - copy\add.c
+	"declare.h"
+	"check.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576611432 c:\users\egypt-laptop\desktop\project - copy\declare.h
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+
+1576910920 c:\users\egypt-laptop\desktop\project - copy\check.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576648012 source:c:\users\egypt-laptop\desktop\project - copy\contentprint.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1577036974 source:c:\users\egypt-laptop\desktop\project - copy\delete.c
+	"declare.h"
+	"load.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576650964 c:\users\egypt-laptop\desktop\project - copy\load.h
+	"declare.h"
+
+1577017637 source:c:\users\egypt-laptop\desktop\project - copy\load.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"declare.h"
+	"add.h"
+	"contentprint.h"
+	"delete.h"
+	"end.h"
+
+1576612028 c:\users\egypt-laptop\desktop\project - copy\add.h
+	"declare.h"
+
+1576612038 c:\users\egypt-laptop\desktop\project - copy\contentprint.h
+
+1576612048 c:\users\egypt-laptop\desktop\project - copy\delete.h
+
+1576912928 c:\users\egypt-laptop\desktop\project - copy\end.h
+
+1576856812 source:c:\users\egypt-laptop\desktop\project - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"load.h"
+
+1577037772 source:c:\users\egypt-laptop\desktop\project - copy\modify.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1577036816 source:c:\users\egypt-laptop\desktop\project - copy\save.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"load.h"
+
+1577036484 source:c:\users\egypt-laptop\desktop\project - copy\search.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"contentprint.h"
+
+1577039108 source:c:\users\egypt-laptop\desktop\project - copy\sortprint.c
+	"declare.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
